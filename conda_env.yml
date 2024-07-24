@@ -1,0 +1,21 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - astropy
+  - jupyter
+  - matplotlib
+  - mkdocs
+  - mkdocs-jupyter
+  - mkdocs-material
+  - numpy
+  - pathlib
+  - pandas
+  - pymdown-extensions
+  - python <= 3.9
+  - python-kaleido
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - sunpy
+  - notebook
